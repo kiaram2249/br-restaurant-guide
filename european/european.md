@@ -2,7 +2,7 @@
 ## European
 ---
 Select a restaurant:
-## [greek](greek/greek.md)
-## [mediterranean](mediterranean/mediterranean.md)
+## [Greek](greek/greek.md)
+## [Mediterranean](mediterranean/mediterranean.md)
 ---
 [Start Over](../home.md)
